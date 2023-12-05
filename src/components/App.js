@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import  KeyPadComponent  from './components/KeyPadComponent';
-import ResultComponent from './components/ResultComponent';
-import './index.css';
+import  KeyPadComponent  from './KeyPadComponent';
+import ResultComponent from './ResultComponent';
+// import './index.css';
 
 class App extends Component {
   state = {
